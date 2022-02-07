@@ -1,0 +1,23 @@
+---
+---
+
+@import "{{}}"
+// basically import everyhting as default
+  nav {
+// change the nav menu
+    ul {
+      // alter the list style
+      list-style-type: none;
+      list-style: none;
+      // remove formattings from the list objects (bullet points etc)
+      padding: 0;
+      margin: 0;
+      // remove extra spacings
+    }
+    
+    li{ 
+    // changes list object features
+      font-size: 20pt;
+      display: inline;
+    }
+}
