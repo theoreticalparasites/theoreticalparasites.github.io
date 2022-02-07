@@ -1,1 +1,4 @@
 theme: jekyll-theme-minimal
+title: website title
+description: website description
+markdown: kramdown
