@@ -8,7 +8,7 @@ layout: default
        <a href="/">Home</a>
        </li>
      <li>
-       <a href="/">about</a>>
+       <a href="/">About</a>
        </li>
   </ul>
 </nav>
